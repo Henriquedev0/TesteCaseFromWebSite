@@ -1,0 +1,26 @@
+# Diretórios de Cypress
+/cypress/videos/
+/cypress/screenshots/
+/cypress/fixtures/.DS_Store
+
+# Node modules
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração
+/cypress.json
+/cypress.env.json
+
+# Outras configurações
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+
+# Build outputs
+/dist/
+/build/
